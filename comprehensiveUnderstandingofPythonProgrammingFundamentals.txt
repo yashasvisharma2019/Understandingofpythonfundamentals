@@ -16,6 +16,8 @@ Task
    * Operators (arithmetic, comparison, logical, etc.)
    * Reading CSV files
    * Python String Methods
+
+     
 Concepts to Cover
 Python Functions
 * Create functions with different numbers of parameters and return types.
@@ -23,16 +25,22 @@ Python Functions
 * Implement functions with default argument values.
 * Write recursive functions.
 * Demonstrate how to use docstrings to document functions.
+
+     
 Lambda Functions
 * Create simple lambda functions for various operations.
 * Use lambda functions with built-in functions like map, filter, and reduce.
 * Compare lambda functions with regular functions in terms of syntax and use cases.
+
+     
 NumPy
 * Create different types of NumPy arrays (1D, 2D, 3D).
 * Perform basic arithmetic operations on arrays.
 * Use indexing and slicing to access elements.
 * Explore array manipulation functions (reshape, transpose, concatenate).
 * Create and use NumPy random number generators.
+
+     
 Pandas
 * Create Pandas Series and DataFrames.
 * Load data from various file formats (CSV, Excel, etc.).
@@ -43,31 +51,39 @@ If Statements
 * Demonstrate conditional logic using if, else, and elif statements.
 * Create complex conditional expressions.
 * Implement nested if statements.
+
+     
 Loops
 * Use for loops to iterate over sequences.
 * Employ while loops for indefinite iteration.
 * Implement nested loops.
 * Utilize break and continue statements.
+
+     
 Lists, Tuples, Sets, Dictionaries
 * Create and manipulate lists, tuples, sets, and dictionaries.
 * Understand the differences between these data structures.
 * Perform operations like indexing, slicing, adding, removing elements.
 * Explore built-in methods for each data structure.
+
+     
 Operators
 * Use arithmetic, comparison, logical, and assignment operators.
 * Understand operator precedence.
 * Apply operators in expressions and calculations.
+
+     
 Reading CSV files
 * Read CSV files into Pandas DataFrames.
 * Explore different CSV reading options and parameters.
 * Handle missing values and data cleaning.
+
+     
 Python String Methods
 * Manipulate strings using various built-in methods.
 * Perform operations like concatenation, slicing, finding substrings.
 * Convert strings to uppercase, lowercase, and title case.
 * Remove whitespace and split strings.
-
-
 
 
 Submission
